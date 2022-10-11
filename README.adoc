@@ -1,0 +1,49 @@
+[200~= Salsa Group
+Ryan M. Howell <rmhowell@protonmail.com>; Jason Wang <jasonwangschool@gmail.com>
+v0.0.1, {docdate}: The Pilot 
+
+:toc:
+
+== Triangular Arbitrage Project
+
+This project...
+
+=== Getting Started
+
+To get started...
+
+== About Salsa Group
+
+The Salsa Group...
+
+=== Member Contact
+
+.About {author}
+Contact {author} at {email}
+
+https://salsagroup.atlassian.net/wiki/spaces/~6302ae394dadcf9fa318d703/::[My Confluence]
+
+https://github.com/Huell-Howitzer::[GitHub]
+
+https://huell-howitzer.github.io/::[Github Pages]
+
+https://gitlab.com/Huell-Howitzer::[GitLab]
+
+https://huell-howitzer.gitlab.io/::[Gitlab Pages]
+
+
+
+https://gitlab.com/huell-howitzer
+
+.About {author2}
+Contact {author2} at {email2}
+
+=== Group Pages
+
+==== https://salsagroup.atlassian.net/wiki[Confluence]
+
+==== https://salsagroup.atlassian.net/[JIRA]
+
+==== https://salsagroup-mail-server.awsapps.com/[Salsa Group Mail Server]
+
+==== https://salsa-group.signin.aws.amazon.com/console[AWS]
